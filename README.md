@@ -1,1 +1,1 @@
-vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@mkh.ircf.space:443?security=tls&sni=hdfy2cdn1.cpionline.co&fp=chrome&type=ws&path=/vncf0bfUuZ6QgIre2fcLjqskl&host=hdfy2cdn1.cpionline.co#CDNALL_tls_h2_WS_CDN_vless
+vless://3b77f9fa-62c6-4517-8d15-c25688d9416f@195.137.167.104:443?security=tls&sni=da.darkpack.tech&fp=chrome&type=grpc&serviceName=DGDnaoe5uZ6QYjlwQSENi&encryption=none#CDN_tls_h2_grpc_CDN_vless
