@@ -1,1 +1,1 @@
-vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@104.17.192.173:443?security=tls&sni=hdfy2cdn1.cpionline.co&fp=chrome&type=ws&path=/vncf0bfUuZ6QgIre2fcLjqskl&host=hdfy2cdn1.cpionline.co&encryption=none#CDNALL_tls_WS_CDN_vless
+vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@104.31.16.240:443?security=tls&sni=hdfy2cdn1.cpionline.co&fp=chrome&type=ws&path=/vncf0bfUuZ6QgIre2fcLjqskl&host=hdfy2cdn1.cpionline.co&encryption=none#CDNALL_tls_WS_CDN_vless
