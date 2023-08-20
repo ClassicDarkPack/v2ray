@@ -1,1 +1,1 @@
-vless://6847f901-3938-4083-9fd9-2de96bcb6b9f@sht.ircf.space:443?security=tls&sni=hdfy2cdn1.cpionline.co&fp=chrome&type=ws&path=/vncf0bfUuZ6QgIre2fcLjqskl&host=hdfy2cdn1.cpionline.co&encryption=none#CDNALL_tls_WS_CDN_vless
+vless://e902069d-a4fe-4c17-9d7b-6dec144c043e@104.31.16.44:443?security=tls&sni=hdfy6c3.foriran.trade&fp=chrome&type=ws&path=/o5s5SOykLJqhPW7f2vfPqnIb0s&host=hdfy6c3.foriran.trade&encryption=none#WS CDN
