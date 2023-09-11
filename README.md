@@ -1,1 +1,1 @@
-vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@psm.ircf.space:443?security=tls&sni=hdfy6c1.freelines.net&fp=chrome&type=ws&path=/Bc5xLs413y7DNJYMWXN7kCm3lL&host=hdfy6c1.freelines.net&encryption=none#c8%20tls%20WS%20CDN%20vless%20443%2013
+vless://a95efc3a-507c-43d5-ac37-13a1e8eb4de6@adsl.darkpack.tech:443?security=tls&sni=cdn.darkpack.tech&fp=chrome&type=ws&path=/DGDnaoeyGCg1AHU&host=cdn.darkpack.tech&encryption=none#all-net%20tls%20WS%20CDN%20vless%20443%208
