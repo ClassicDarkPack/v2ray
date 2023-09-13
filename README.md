@@ -1,1 +1,2 @@
 vless://a95efc3a-507c-43d5-ac37-13a1e8eb4de6@adsl.darkpack.tech:443?security=tls&sni=cdn.darkpack.tech&fp=chrome&type=ws&path=/DGDnaoeyGCg1AHU&host=cdn.darkpack.tech&encryption=none#all-net%20tls%20WS%20CDN%20vless%20443%208
+vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@185.109.21.134:443/?type=ws&encryption=none&host=hdfy6c5.cpionline.co&path=%2FBc5xLs413y7DNJYMWXN7kCm3lL&security=tls&sni=hdfy6c5.cpionline.co&alpn=http%2F1.1&fp=chrome#81%20%E2%9C%82%EF%B8%8F%20c5%20tls%20WS%20CDN%20vless
